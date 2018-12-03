@@ -1,3 +1,5 @@
 * Banan
 * Apelsin
 * Clementin
+* Äpple
+* Ananas
