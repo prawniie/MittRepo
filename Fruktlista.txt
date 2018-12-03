@@ -2,5 +2,4 @@
 * Apelsin
 * Clementin
 * Äpple
-* Ananas
-* Kiwi
+* Clementin
